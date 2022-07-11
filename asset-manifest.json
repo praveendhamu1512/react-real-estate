@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/real-estate/static/css/main.1a647066.css",
-    "main.js": "/real-estate/static/js/main.7b0f4fd3.js",
-    "static/js/787.2b0a459f.chunk.js": "/real-estate/static/js/787.2b0a459f.chunk.js",
-    "index.html": "/real-estate/index.html",
-    "main.1a647066.css.map": "/real-estate/static/css/main.1a647066.css.map",
-    "main.7b0f4fd3.js.map": "/real-estate/static/js/main.7b0f4fd3.js.map",
-    "787.2b0a459f.chunk.js.map": "/real-estate/static/js/787.2b0a459f.chunk.js.map"
+    "main.css": "/praveendhamu1512/real-estate/static/css/main.1a647066.css",
+    "main.js": "/praveendhamu1512/real-estate/static/js/main.2887457d.js",
+    "static/js/787.2b0a459f.chunk.js": "/praveendhamu1512/real-estate/static/js/787.2b0a459f.chunk.js",
+    "index.html": "/praveendhamu1512/real-estate/index.html",
+    "main.1a647066.css.map": "/praveendhamu1512/real-estate/static/css/main.1a647066.css.map",
+    "main.2887457d.js.map": "/praveendhamu1512/real-estate/static/js/main.2887457d.js.map",
+    "787.2b0a459f.chunk.js.map": "/praveendhamu1512/real-estate/static/js/787.2b0a459f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a647066.css",
-    "static/js/main.7b0f4fd3.js"
+    "static/js/main.2887457d.js"
   ]
 }
